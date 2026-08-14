@@ -1,6 +1,6 @@
 # 안다은 | Cloud · Data · DevOps Engineer
 
-Azure 기반 **데이터 파이프라인과 클라우드 아키텍처를 설계·구축하며**,
+클라우드 기반 **데이터 파이프라인과 클라우드 아키텍처를 설계·구축하며**,
 IaC와 CI/CD를 기반으로 **인프라 구성부터 배포·운영까지 반복 가능한 환경을 만듭니다.**
 
 `Data Engineering` `Cloud Architecture` `DevOps` `Azure`
