@@ -106,7 +106,7 @@ EV 배터리 센서 데이터를 실시간으로 수집·처리하고
 
 **실시간 거래 데이터의 수집·처리·분석·서비스 연동까지 이어지는 Cloud Architecture 설계**
 
-[프로젝트 자세히 보기 →](PROJECT_REPOSITORY_URL)
+[프로젝트 자세히 보기 →](https://github.com/dandan-is-dandan/azure-realtime-stock-trading-platform)
 
 ---
 
