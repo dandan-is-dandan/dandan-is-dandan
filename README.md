@@ -102,17 +102,20 @@ IaC와 CI/CD를 기반으로 **인프라 구성부터 배포·운영까지 반�
 
 # 💼 Experience
 
-**두우엔지니어링 · IT Intern**
-`2025.07 – 2025.09`
-Python · Pandas 기반 **FRS 이미지 데이터 정형화 및 데이터 처리 프로그램 개발**
+**Microsoft Data School 4기** · `2026.03 – 2026.09`
+Azure 기반 **Data Engineering · Cloud Architecture · DevOps** 프로젝트
 
-**Microsoft Data School 4기**
-`2026.03 – 2026.09`
-Azure 기반 **Data Engineering · Cloud Architecture · DevOps** 프로젝트 수행
+**두우엔지니어링 · IT Intern** · `2025.07 – 2025.09`
+Python · Pandas 기반 **FRS 이미지 데이터 정형화 및 처리 프로그램 개발**
 
-**대학교 빅데이터 분석 연구실 · Lab Leader**
-`2023.10 – 2025.01`
-센서 · 산업 공정 데이터 분석 및 시계열 모델링 연구
+**컴퓨터공학과 임베디드 연구실 (DfX)** · `2025.01 – 2025.10`
+Vision 기반 **좌표 변환 · Robot Arm 제어 시스템 개발**
+
+**빅데이터 분석 연구실 · Lab Leader** · `2023.10 – 2025.01`
+센서 · 산업 공정 데이터 **전처리 · 분석 · 시계열 모델링 연구**
+
+**자작자동차동아리** · `2023.03 – 2024.10`
+Baja / EV 차량 제작 및 **배터리 전압·전류·전력 데이터 분석**
 
 ---
 
@@ -120,12 +123,6 @@ Azure 기반 **Data Engineering · Cloud Architecture · DevOps** 프로젝트 �
 
 **ETRI 제지공정 전력 최적화 연구**
 `Time Series` `LSTM` `Industrial Data`
-
-**딥러닝 기반 딸기 수확 자동화 시스템**
-`Computer Vision` `Robot Control` `Jetson`
-
-**EV / Baja 자작자동차 프로젝트**
-`EV` `Battery Data` `Hardware`
 
 **Raspberry Pi 기반 음성 인터랙션 스마트 폐기물 관리 시스템**
 `Raspberry Pi` `Embedded` `Voice Interaction`
@@ -168,8 +165,7 @@ Azure 기반 **Data Engineering · Cloud Architecture · DevOps** 프로젝트 �
 
 # 🌏 Other
 
-* Canada Language Program (1 month) · 2022
-
+* Canada Short-term (1 month) Language Program · 2022
 ---
 
 # 📫 Contact
