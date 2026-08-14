@@ -1,7 +1,7 @@
 # 안다은 | Cloud · Data · DevOps Engineer
 
-Azure 기반 **데이터 파이프라인과 클라우드 아키텍처를 설계·구축하고**,
-IaC와 CI/CD를 활용해 인프라와 배포 과정을 자동화하는 데 관심이 있습니다.
+Azure 기반 **데이터 파이프라인과 클라우드 아키텍처를 설계·구축하며**,
+IaC와 CI/CD를 기반으로 **인프라 구성부터 배포·운영까지 반복 가능한 환경을 만듭니다.**
 
 `Data Engineering` `Cloud Architecture` `DevOps` `Azure`
 
@@ -169,6 +169,7 @@ Azure 기반 **Data Engineering · Cloud Architecture · DevOps** 프로젝트 �
 # 🌏 Other
 
 * Canada Language Program (1 month) · 2022
+* OPIc IL
 
 ---
 
