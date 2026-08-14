@@ -169,7 +169,6 @@ Azure 기반 **Data Engineering · Cloud Architecture · DevOps** 프로젝트 �
 # 🌏 Other
 
 * Canada Language Program (1 month) · 2022
-* OPIc IL
 
 ---
 
