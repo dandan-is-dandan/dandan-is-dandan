@@ -11,7 +11,7 @@ IaC와 CI/CD를 기반으로 **인프라 구성부터 배포·운영까지 반�
 
 * **Name** · 안다은
 * **Field** · Cloud / Data Engineering / DevOps
-* **Education** · 국립한밭대학교 컴퓨터공학과 졸업
+* **Education** · 컴퓨터공학과 졸업
 * **Experience** · IT Intern · Lab Leader · Microsoft Data School 4기
 * **Focus** · Azure · Data Pipeline · IaC · CI/CD
 
