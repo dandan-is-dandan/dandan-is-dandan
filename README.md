@@ -50,7 +50,7 @@ IaC와 CI/CD를 기반으로 **인프라 구성부터 배포·운영까지 반�
 * Azure Functions API · Dashboard 연동
 * Bicep 기반 Azure Infrastructure 구성
 
-[Repository →](PROJECT_REPOSITORY_URL)
+[Repository →](https://github.com/dandan-is-dandan/azure-ev-battery-pipeline.git)
 
 ---
 
