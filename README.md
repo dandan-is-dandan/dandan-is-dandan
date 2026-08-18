@@ -108,7 +108,7 @@ Azure 기반 **Data Engineering · Cloud Architecture · DevOps** 프로젝트
 **두우엔지니어링 · IT Intern** · `2025.07 – 2025.09`
 Python · Pandas 기반 **FRS 이미지 데이터 정형화 및 처리 프로그램 개발**
 
-**컴퓨터공학과 임베디드 연구실 (DfX)** · `2025.01 – 2025.10`
+**컴퓨터공학과 임베디드 연구실** · `2025.01 – 2025.10`
 Vision 기반 **좌표 변환 · Robot Arm 제어 시스템 개발**
 
 **컴퓨터공학과 빅데이터 분석 연구실 · Lab Leader** · `2023.10 – 2025.01`
